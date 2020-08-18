@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Codewars**
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Makapre/badges/small)
