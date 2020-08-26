@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham)
