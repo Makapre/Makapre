@@ -2,7 +2,7 @@
 
 💻 I’m currently working with Ruby on Rails 💎
 
-💻 I’m currently learning Flutter 
+💻 I’m currently learning Flutter and interested in mobile app development 
 
 <!--
 **Makapre/Makapre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
