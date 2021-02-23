@@ -8,9 +8,7 @@
 
 👨🏼‍💻 learning Flutter 
 
-💻 working in mobile app development
-
-📱 Interested in mobile app development 
+💻📱 Interested & working in mobile app development
 
 <!--
 **Makapre/Makapre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
