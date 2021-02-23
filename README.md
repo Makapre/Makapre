@@ -1,8 +1,14 @@
 ### Moin 👋
 
+<!--
 💻 I’m currently working with Ruby on Rails 💎
+-->
 
-👨🏼‍💻 I’m currently learning Flutter 
+**I’m currently** 
+
+👨🏼‍💻 learning Flutter 
+
+💻 working in mobile app development
 
 📱 Interested in mobile app development 
 
