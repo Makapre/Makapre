@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![instagram](https://img.shields.io/badge/makapre_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/makapre_)
 [![Mail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.preikschat@googlemail.com)
 
-#### Languages
+### Languages
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![Latext](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 
-#### Technologies
+### Technologies
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### Codewars:
+### Codewars:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Makapre/badges/small)
 
-#### My GitHub stats
+### My GitHub stats
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
