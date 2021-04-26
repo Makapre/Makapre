@@ -74,4 +74,11 @@ Here are some ideas to get you started:
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham) -->
+
+<a href="https://github.com/makapre/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/makapre/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makapre&show_icons=true&hide=shell&theme=gotham" />
+</a>
