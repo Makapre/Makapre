@@ -28,6 +28,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My GitHub stats
+
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham) -->
+
+<a href="https://github.com/makapre/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/makapre/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makapre&show_icons=true&hide=shell&theme=gotham" />
+</a>
+
 ### Social
 
 [![twitter](https://img.shields.io/badge/makapre%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/makapre)
@@ -69,16 +82,3 @@ Here are some ideas to get you started:
 ### Codewars:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Makapre/badges/small)
-
-### My GitHub stats
-
-This doesn't take into account the work done in forks, organizations, or private repos.
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham) -->
-
-<a href="https://github.com/makapre/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=makapre&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/makapre/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makapre&show_icons=true&hide=shell&theme=gotham" />
-</a>
