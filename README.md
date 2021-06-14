@@ -8,6 +8,7 @@
 
 **I’m currently** 
 
+👨🏼‍💻 learning native iOS Development 
 👨🏼‍💻 learning Flutter 
 👨🏼‍💻 learning React-Native
 
