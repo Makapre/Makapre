@@ -7,6 +7,8 @@
 
 💻📱 Interested & working in mobile app development
 
+💎🔴 working w/ Ruby
+
 ### How to get in touch w/ me
 
 [![linkedin](https://img.shields.io/badge/Marius_Preikschat%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marius-kai-preikschat-1742b7200/)
