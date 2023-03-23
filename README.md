@@ -5,9 +5,9 @@
 
 💎🔴 working w/ Ruby
 
-👨🏼‍💻 learning native iOS Development ∆ Flutter ∆ React Native
+👨🏼‍💻 doing native iOS Development
 
-💻📱 Interested & working in mobile app development
+💻📱 Interested in working as ios app developer
 
 
 ### How to get in touch w/ me
