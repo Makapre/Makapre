@@ -5,9 +5,9 @@
 
 💎🔴 working w/ Ruby
 
-👨🏼‍💻 doing native iOS Development
+👨🏼‍💻 having fun w/ native iOS Development
 
-💻📱 Interested in working as ios app developer
+💻📱 interested in working as an ios app developer
 
 
 ### How to get in touch w/ me
